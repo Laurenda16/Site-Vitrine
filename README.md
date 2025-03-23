@@ -1,2 +1,2 @@
 # Site-Vitrine
-Site vitrine en html/css
+Site vitrine en html/css>Responsive
