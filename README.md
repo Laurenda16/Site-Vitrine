@@ -1,2 +1,2 @@
 # Site-Vitrine
-Site vitrine en html/css>Responsive sur tout les ecrans
+Site vitrine en html/css>Responsive sur tout les ecrans a
